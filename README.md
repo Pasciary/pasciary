@@ -73,14 +73,14 @@ Estou iniciando no mundo do desenvolvimento, já possuo conhecimento na linguage
     <img 
         align="left" 
         alt="GitHub Stats" 
-        height="200px" 
+        height="190px" 
         style="padding-right: 10px;" 
         src="https://github-readme-stats.vercel.app/api?username=Pasciary&show_icons=&theme=dark&locale=pt-br" 
     />
     <img 
         align="left" 
         alt="GitHub Stats" 
-        height="200px" 
+        height="160px" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasciary&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=10" 
     />
 </p>
