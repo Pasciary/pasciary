@@ -4,7 +4,7 @@
 
 <!--**`Desenvolvedor FullStack Python`** -->
 
-Estou iniciando no mundo do desenvolvimento, já possuo conhecimento na linguagem Python, me aprofundando cada vez mais, e estou iniciando e abrindo meus horizontes em Java. Meu foco principal é desenvolver aplicativos robustos e escaláveis. 🐍☕︎
+Estou iniciando no mundo do desenvolvimento, já possuo conhecimento na linguagem Python, e continuo me aprofundando cada vez mais para ser um Desenvolvedor FullStack em Python, e estou iniciando e abrindo meus horizontes em Java. Meu foco principal é desenvolver aplicativos robustos e escaláveis. 🐍☕︎
 
 
 
