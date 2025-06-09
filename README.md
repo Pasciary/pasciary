@@ -9,12 +9,12 @@ Estou iniciando no mundo do desenvolvimento, já possuo conhecimento na linguage
 
 
 
-
+<!--
 ### Projetos Destacados
 * Portifólio: Meu Portfólio. ✨
 * House of Books: Aplicativo web usando Spring Boot e PostgreSQL para gerenciar uma biblioteca online. Destaca-se pela arquitetura escalável e eficiente. 📚
 * DsCatalog: Bootcamp DsLearn, onde desenvolvi uma app Fullstack. 📚
-
+-->
 
 <br>
 <p align="left">
