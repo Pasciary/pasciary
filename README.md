@@ -68,19 +68,23 @@ Estou iniciando no mundo do desenvolvimento, já possuo conhecimento na linguage
 <br/>
 <br/>
 
-### Estatisticas 
-<p>
-    <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="190px" 
-        style="padding-right: 10px;" 
-        src="https://github-readme-stats.vercel.app/api?username=Pasciary&show_icons=&theme=dark&locale=pt-br" 
+### Estatisticas
+
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 10px;">
+    <img
+        alt="GitHub Stats"
+        height="200px"
+        src="https://github-readme-stats.vercel.app/api?username=Pasciary&show_icons=&theme=dark&locale=pt-br"
     />
-    <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="160px" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasciary&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=10" 
+    <img
+        alt="GitHub Stats"
+        height="200px"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasciary&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=10"
     />
-</p>
+</div>
+
+<img
+    alt="GitHub Streak"
+    height="165px"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=pasciary&theme=dark&hide_border=false"
+/>
