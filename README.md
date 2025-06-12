@@ -79,7 +79,7 @@ Estou iniciando no mundo do desenvolvimento, já possuo conhecimento na linguage
     <img
         alt="GitHub Stats"
         height="200px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasciary&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=10"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasciary&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=20"
     />
 </div>
 
